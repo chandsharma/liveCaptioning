@@ -9,5 +9,5 @@ generates live captions as soon as person shoots the word
 > python3 stream.py
 
 # Note : This will require json file from google cloud console, add yours or ask admin (me) if you are a friend
-(put json file in same folder) and you are goof to go ;)
+(put json file in same folder) and you are good to go ;)
 
